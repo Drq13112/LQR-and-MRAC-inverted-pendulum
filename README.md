@@ -1,6 +1,8 @@
 # Inverted Pendulum Control on a Mobile Cart
 
-![Inverted Pendulum](./assets/Double-inverted-pendulum-on-a-cart.png)
+<div align="center">
+  <img src="./assets/Double-inverted-pendulum-on-a-cart.png" alt="Inverted Pendulum" width="500"/>
+</div>
 
 This repository includes three subprojects focused on the control of inverted pendulums mounted on a mobile cart with friction. Each configuration increases in complexity, covering from a single pendulum to a double pendulum system using various control strategies.
 
@@ -44,18 +46,6 @@ This is the most challenging scenario: a **double inverted pendulum on a mobile 
   - Pendulum masses \( m \)
   - Length \( L \)
   - Friction \( b \)
-
----
-
-## 📂 Repository Structure
-
-/assets
-├── pendulum.jpg # System diagram 
-/simple_inverted_pendulum
-/adaptive_inverted_pendulum
-/double_inverted_pendulum
-README.md
-
 ---
 
 ## 📫 Contact
